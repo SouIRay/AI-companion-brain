@@ -1,0 +1,2 @@
+# AI-companion-brain
+myfirstaicompanionproject
